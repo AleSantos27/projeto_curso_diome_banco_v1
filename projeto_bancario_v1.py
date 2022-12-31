@@ -1,3 +1,8 @@
+# 1 - O VALOR DE SAQUE NÃO PODE ULTRAPASSAR R$: 500,00
+# 2 - A QUANTIDADE DE TRANSAÇÂO DE SAQUE NÃO PODE SER MAIOR QUE 3X
+# 3 - O EXTRATO TEM QUE INFORMAR TODAS AS OPERAÇÔES FEITAS
+
+
 saldo = contador_deposito = contador_saque = soma_saque = soma_deposito = 0
 
 while True:
